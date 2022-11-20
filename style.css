@@ -1,0 +1,11 @@
+.wrapper {
+    margin: 20px;
+    text-align: center;
+    
+}
+
+.field {
+    margin: 10px;
+    font-size: large;
+    width: auto;
+}
